@@ -1,0 +1,11 @@
+int main()
+{
+switch (a1)
+begin
+case 1:
+var1=var1/5;
+printf(var1);
+break;
+end
+return 0;
+}
